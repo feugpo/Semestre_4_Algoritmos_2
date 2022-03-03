@@ -1,2 +1,9 @@
 # Semestre_4_Algoritmos_2
-Semestre 4 Algoritmos y estructuras de Datos II (Java)
+Entrega de ejercicio obligatorio de la carrera Analista en Tecnologías de la Información (programa 2019).
+
+Materia: Algoritmos y estructuras de datos 2 (Semestre 4)
+
+Docente: Federico Bouza
+
+Autores: Fernando Ugarte, Maximiliano Raimondo
+
